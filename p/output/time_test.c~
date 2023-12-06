@@ -1,0 +1,41 @@
+#include <stdio.h>
+#include <time.h>
+#include <string.h>
+char* scan_time()
+{
+	char* p;
+	char s[1024];
+	char result[1024];
+    time_t rawtime;
+    struct tm * timeinfo;
+    time ( &rawtime );
+    timeinfo = localtime ( &rawtime );
+    printf ("Thoi gian va ngay hien hanh cua he thong: %s\n", asctime (timeinfo) );
+    strcpy(s,asctime(timeinfo));
+    p = strtok(s," ");
+    strcpy(result,p);
+    strcat(result,"_");
+    p = strtok(NULL," ");
+    strcat(result,p);
+    strcat(result,"_");
+    p = strtok(NULL," ");
+    strcat(result,p);
+    strcat(result,"_");
+    p = strtok(NULL,":");
+    strcat(result,p);
+    strcat(result,"_");
+    p = strtok(NULL,":");
+    strcat(result,p);
+    strcat(result,"_");
+    p = strtok(NULL," ");
+    strcat(result,p);
+    strcat(result,"_");
+    p = strtok(NULL,"\0");
+    strcat(result,p);
+    strcat(result,"_");
+    //return &result;
+}  
+
+int main(){
+    printf("%s\n", scan_time());
+}
