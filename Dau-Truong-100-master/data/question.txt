@@ -1,0 +1,12 @@
+1|EASY|Câu hỏi 1|A.Đáp án 1|B.Đáp án 2|C.Đáp án 3|D.Đáp án 4|A
+2|NORMAL|Câu hỏi 2|A.Đáp án 1|B.Đáp án 2|C.Đáp án 3|D.Đáp án 4|B
+3|HARD|Câu hỏi 3|A.Đáp án 1|B.Đáp án 2|C.Đáp án 3|D.Đáp án 4|C
+4|EASY|Câu hỏi 4|A.Đáp án 1|B.Đáp án 2|C.Đáp án 3|D.Đáp án 4|D
+5|EASY|Câu hỏi 5|A.Đáp án 1|B.Đáp án 2|C.Đáp án 3|D.Đáp án 4|A
+6|EASY|Câu hỏi 6|A.Đáp án 1|B.Đáp án 2|C.Đáp án 3|D.Đáp án 4|B
+7|NORMAL|Câu hỏi 7|A.Đáp án 1|B.Đáp án 2|C.Đáp án 3|D.Đáp án 4|C
+8|HARD|Câu hỏi 8|A.Đáp án 1|B.Đáp án 2|C.Đáp án 3|D.Đáp án 4|D
+9|EASY|Câu hỏi 1|A.Đáp án 1|B.Đáp án 2|C.Đáp án 3|D.Đáp án 4|A
+10|NORMAL|Câu hỏi 2|A.Đáp án 1|B.Đáp án 2|C.Đáp án 3|D.Đáp án 4|B
+11|HARD|Câu hỏi 3|A.Đáp án 1|B.Đáp án 2|C.Đáp án 3|D.Đáp án 4|C
+12|EASY|Câu hỏi 4|A.Đáp án 1|B.Đáp án 2|C.Đáp án 3|D.Đáp án 4|D
